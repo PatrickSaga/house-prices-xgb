@@ -1,6 +1,7 @@
 # House-prices-xgb
 Tutorial Ipython Notebook for the Kaggle competitions [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/c/home-data-for-ml-course) & [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). 
 The aim of this repository is to provide an example tutorial of a machine learning workflow from a beginner perspective, focusing on feature-wise analysis through detailed visualizations and feature engineering.
+
 The current version of the code achieves a public score of 13545.39 based on [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) metric for the Housing Prices Competition for Kaggle Learn Users competition, leading to a Top 3% result in the leaderboard.
 The current version of the code achieves a public score of 0.12532 based on [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) metric (with logarithm differences) for the House Prices: Advanced Regression Techniques competition, leading to a Top 25% result in the leaderboard.
  
